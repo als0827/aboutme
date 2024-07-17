@@ -37,7 +37,7 @@ p {
 html {
     scroll-behavior:smooth;
 }
-text_center {
+.text-center {
     display: block;
     text-align: center;
 }
